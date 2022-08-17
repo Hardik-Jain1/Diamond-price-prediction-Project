@@ -36,6 +36,18 @@ depth total depth percentage = z / mean(x, y) = 2 * z / (x + y) (43--79) The dep
 table width of the top of the diamond relative to widest point (43--95)
 
 A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye. The ideal table cut diamond will give the diamond stunning fire and brilliance.
+## OSEMN Pipeline:
+I’ll be following a typical data science pipeline, which is call “OSEMN”-
+
+1.) Obtaining the data is the first approach in solving the problem.
+
+2.) Scrubbing or cleaning the data is the next step. This includes data imputation of missing or invalid data and fixing column names.
+
+3.) Exploring the data will follow right after and allow further insight of what our dataset contains. Looking for any outliers or weird data. Understanding the relationship each explanatory variable has with the response variable resides here and we can do this with a correlation matrix.
+
+4.) Modeling the data will give us our predictive power.
+
+5.) INterpreting the data is last. With all the results and analysis of the data, what conclusion is made? What factors contributed most to employee turnover? What relationship of variables were found?
 
 ## Conclusion:
 Thus we have built models that can accurately predict the price of a diamond based on its features and the best out of four(LinearRegression, DecisionTree, RandomForest, KNN, XGBRegressor) is XGBRegressor.
