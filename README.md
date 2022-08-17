@@ -1,2 +1,4 @@
 # Diamond-price-prediction-Project
-This is a Machine Learning project which can predicts the price o fa diamond given its weight, quality and dimensional measurements.
+The goal of the project is to build a model that can accurately predict the price of a diamond given its weight, quality and dimensional measurements.
+
+
