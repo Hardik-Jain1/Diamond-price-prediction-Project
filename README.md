@@ -3,8 +3,9 @@
 ## Objective:
 The goal of the project is to build a model that can accurately predict the price of a diamond given its weight, quality and dimensional measurements.
 ## Dataset:
-Loading Data
 This classic dataset contains the prices and other attributes of almost 54,000 diamonds. There are 10 attributes included in the dataset including the target ie. price.
+![image](https://user-images.githubusercontent.com/100846110/185215976-90c7645e-2995-4a71-b2dd-68eb7d0de285.png)
+
 
 Feature description:
 
