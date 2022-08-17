@@ -37,3 +37,7 @@ table width of the top of the diamond relative to widest point (43--95)
 
 A diamond's table refers to the flat facet of the diamond seen when the stone is face up. The main purpose of a diamond table is to refract entering light rays and allow reflected light rays from within the diamond to meet the observer’s eye. The ideal table cut diamond will give the diamond stunning fire and brilliance.
 
+## Conclusion:
+Thus we have built models that can accurately predict the price of a diamond based on its features and the best out of four(LinearRegression, DecisionTree, RandomForest, KNN, XGBRegressor) is XGBRegressor.
+
+It can be usefull for predicting the price of a new diamond given with its some features based on trending prices of such diamond.
